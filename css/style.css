@@ -66,7 +66,7 @@ header h1 {
 #top h3 {
   position: absolute;
   right: 1rem;
-  bottom: -15%;
+  bottom: -8%;
   width: 23%;
 }
 #top h3 a {
@@ -92,8 +92,7 @@ header h1 {
   padding-bottom: 2rem;
 }
 #prize h3 span {
-  -webkit-text-emphasis: filled dot #C9145A;
-          text-emphasis: filled dot #C9145A;
+  text-emphasis: filled dot #C9145A;
   font-weight: 400;
 }
 #prize h4 {
@@ -783,8 +782,7 @@ footer nav ul:first-of-type {
     padding-bottom: 70px;
   }
   #prize h3 span {
-    -webkit-text-emphasis: filled dot #F6E63F;
-            text-emphasis: filled dot #F6E63F;
+    text-emphasis: filled dot #C9145A;
     font-weight: 400;
   }
   #prize h4 {
