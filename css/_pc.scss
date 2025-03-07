@@ -107,7 +107,9 @@ header {
     margin-top: 80px;
 
     h2 {
-        background: $light_green;
+        // background: $light_green;
+        background: #FCF9FA;
+
         max-width: 1600px;
         margin: 0 auto;
         padding: 100px 0 0;
@@ -387,11 +389,11 @@ header {
 
         .number {
             position: absolute;
-            width: 35px;
+            width: 50px;
             left: 0;
             right: 0;
             margin: auto;
-            top: -9%;
+            top: -12%;
         }
 
         margin-bottom: 0;

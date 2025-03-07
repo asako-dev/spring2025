@@ -50,7 +50,7 @@ header h1 {
 }
 
 #wrapper {
-  background: #BEDCDA;
+  background: #FCF9FA;
 }
 
 .bg {
@@ -269,7 +269,7 @@ header h1 {
 }
 #application .step01 .number {
   position: absolute;
-  width: 3rem;
+  width: 4rem;
   left: 0;
   right: 0;
   margin: auto;
@@ -303,7 +303,7 @@ header h1 {
 }
 #application .step02 .number {
   position: absolute;
-  width: 3rem;
+  width: 4rem;
   left: 0;
   right: 0;
   margin: auto;
@@ -342,7 +342,7 @@ header h1 {
 }
 #application .step03 .number {
   position: absolute;
-  width: 3rem;
+  width: 4rem;
   left: 0;
   right: 0;
   margin: auto;
@@ -749,7 +749,7 @@ footer nav ul:first-of-type {
     margin-top: 80px;
   }
   #top h2 {
-    background: #BEDCDA;
+    background: #FCF9FA;
     max-width: 1600px;
     margin: 0 auto;
     padding: 100px 0 0;
@@ -976,11 +976,11 @@ footer nav ul:first-of-type {
   }
   #application .step01 .number {
     position: absolute;
-    width: 35px;
+    width: 50px;
     left: 0;
     right: 0;
     margin: auto;
-    top: -9%;
+    top: -12%;
   }
   #application .step01 h4 {
     padding-bottom: 60px;
@@ -1019,11 +1019,11 @@ footer nav ul:first-of-type {
   }
   #application .step02 .number {
     position: absolute;
-    width: 35px;
+    width: 50px;
     left: 0;
     right: 0;
     margin: auto;
-    top: -9%;
+    top: -12%;
   }
   #application .step02 h4 {
     padding-bottom: 60px;
@@ -1062,11 +1062,11 @@ footer nav ul:first-of-type {
   }
   #application .step03 .number {
     position: absolute;
-    width: 35px;
+    width: 50px;
     left: 0;
     right: 0;
     margin: auto;
-    top: -9%;
+    top: -12%;
   }
   #application .step03 figure {
     width: 100%;

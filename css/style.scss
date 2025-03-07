@@ -62,7 +62,8 @@ header {
 }
 
 #wrapper {
-    background: $light_green;
+    // background: $light_green;
+    background: #FCF9FA;
 }
 
 .bg {
@@ -78,11 +79,12 @@ header {
     // background-size: cover;
     position: relative;
 
-    // h2 {
+    h2 {
         // width: 90%;
         // margin: auto;
         // padding: 5rem 0;
-    // }
+        // background: #FCF9FA;
+    }
 
     h3 {
         position: absolute;
@@ -332,7 +334,7 @@ header {
 
         .number {
             position: absolute;
-            width: 3rem;
+            width: 4rem;
             left: 0;
             right: 0;
             margin: auto;
